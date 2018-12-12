@@ -1,0 +1,11 @@
+fun\anma\mapper\TbUserMapper.class
+fun\anma\mapper\TbContentCategoryMapper.class
+fun\anma\mapper\TbItemDescMapper.class
+fun\anma\mapper\TbOrderItemMapper.class
+fun\anma\mapper\TbItemParamMapper.class
+fun\anma\mapper\TbOrderMapper.class
+fun\anma\mapper\TbOrderShippingMapper.class
+fun\anma\mapper\TbContentMapper.class
+fun\anma\mapper\TbItemCatMapper.class
+fun\anma\mapper\TbItemParamItemMapper.class
+fun\anma\mapper\TbItemMapper.class
